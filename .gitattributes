@@ -1,1 +1,4 @@
 source/* linguist-vendored
+cmake-build-debug/* linguist-vendored
+Shaders/* linguist-vendored
+Texture/* linguist-vendored
