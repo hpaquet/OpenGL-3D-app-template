@@ -1,1 +1,4 @@
-*.h     diff=cpp
+cmake-build-debug/* linguist-vendored
+Texture/* linguist-vendored
+  
+*.h     linguist-language==cpp
